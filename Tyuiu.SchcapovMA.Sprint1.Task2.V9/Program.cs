@@ -10,8 +10,8 @@ namespace Tyuiu.SchcapovMA.Sprint1.Task2.V9
             //Длинна строки 75 символов
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
-            Console.WriteLine("* Задание #1                                                              *");
+            Console.WriteLine("* Тема: Арифметические операторы в C#                                     *");
+            Console.WriteLine("* Задание #2                                                              *");
             Console.WriteLine("* Вариант #9                                                              *");
             Console.WriteLine("* Выполнил: Щапов Максим Александрович | ИБКСб-24-1                       *");
             Console.WriteLine("***************************************************************************");
