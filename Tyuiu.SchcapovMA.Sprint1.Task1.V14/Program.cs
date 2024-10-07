@@ -5,12 +5,13 @@ namespace Tyuiu.SchcapovMA.Sprint1.Task1.V14
     {
         static void Main(string[] args)
         {
+            
             DataService ds = new DataService();
             Console.Title = "Спринт #1 | Выполнил: Щапов М.А. | ИБКСб-24-1";
             //Длинна строки 75 символов
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
+            Console.WriteLine("* Тема: Организация ввода\\вывода в консольных приложениях                *");
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #14                                                             *");
             Console.WriteLine("* Выполнил: Щапов Максим Александрович | ИБКСб-24-1                       *");
